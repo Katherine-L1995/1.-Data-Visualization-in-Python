@@ -1,0 +1,1349 @@
+Entity,variable,value
+the 20th century,Label,DATE
+Historic,Label,PERSON
+the 20th century,Label,DATE
+the beginning of the century,Label,DATE
+World War II,Label,EVENT
+the end of the century,Label,DATE
+Paragraphs,Label,PERSON
+1-minute,Label,TIME
+"Thursday, December 26",Label,DATE
+Wikipedia,Label,ORG
+this year,Label,DATE
+at least $2.75,Label,MONEY
+just 2%,Label,PERCENT
+2.75,Label,MONEY
+today,Label,DATE
+a few hours,Label,TIME
+nearly 25 years,Label,DATE
+Wikipedia,Label,ORG
+Wikipedia,Label,ORG
+today,Label,DATE
+Wikipedia,Label,ORG
+2.75,Label,MONEY
+2.75,Label,MONEY
+monthly,Label,DATE
+1,Label,MONEY
+all year,Label,DATE
+Wikipedia,Label,ORG
+sisterÂ,Label,CARDINAL
+Donor-Advised Fund,Label,ORG
+DAF,Label,ORG
+The 20th century,Label,DATE
+The World Wars,Label,ORG
+the Cold War,Label,EVENT
+the Space Race,Label,ORG
+the World Wide Web,Label,EVENT
+the 21st century,Label,DATE
+today,Label,DATE
+the 20th century,Label,DATE
+The 1900s,Label,DATE
+the decade,Label,DATE
+1914,Label,CARDINAL
+the Panama Canal,Label,FAC
+1914 to 1918,Label,DATE
+the First World War,Label,EVENT
+The First World War,Label,ORG
+WWI,Label,ORG
+The Great War,Label,WORK_OF_ART
+Jul-14,Label,DATE
+Nov-18,Label,DATE
+Sarajevo,Label,GPE
+the Austro-Hungarian Empire's,Label,FAC
+Erzherzog Franz Ferdinand,Label,PERSON
+Gavrilo Princip,Label,PERSON
+Young Bosnia,Label,FAC
+the July Crisis,Label,EVENT
+the end of July 1914,Label,DATE
+the British Empire,Label,GPE
+France,Label,GPE
+the Russian Empire,Label,GPE
+the Central Powers,Label,ORG
+the German Empire,Label,GPE
+Austria,Label,GPE
+Hungary,Label,GPE
+1917,Label,DATE
+Russia,Label,GPE
+the Central Powers,Label,ORG
+Tsar,Label,GPE
+Bolsheviks,Label,GPE
+Germany,Label,GPE
+Russia,Label,GPE
+Bolshevik Russia,Label,ORG
+Baltic,Label,LOC
+Germany,Label,GPE
+Kars Oblast,Label,LOC
+the South Caucasus,Label,LOC
+the Ottoman Empire,Label,GPE
+Germany,Label,GPE
+Allied,Label,ORG
+American,Label,NORP
+1918.[4,Label,CARDINAL
+Germans,Label,NORP
+British,Label,NORP
+1918,Label,DATE
+the next twenty years,Label,DATE
+First,Label,ORDINAL
+Germans,Label,NORP
+the Treaty of Versailles,Label,WORK_OF_ART
+Germans,Label,NORP
+Germany,Label,GPE
+Allied,Label,ORG
+Kaiser,Label,GPE
+Europe,Label,LOC
+New states,Label,GPE
+Yugoslavia,Label,GPE
+Czechoslovakia,Label,GPE
+Austro-Hungarian Empire,Label,ORG
+the League of Nations,Label,ORG
+The Russian Revolution of,Label,EVENT
+1917,Label,DATE
+Tsarist,Label,NORP
+Nicholas II,Label,PERSON
+Europe,Label,LOC
+European,Label,NORP
+Vladimir Lenin,Label,PERSON
+1924,Label,DATE
+a few years,Label,DATE
+Joseph Stalin,Label,PERSON
+Leon Trotsky,Label,PERSON
+the Soviet Union,Label,GPE
+Stalin,Label,PERSON
+one,Label,CARDINAL
+socialists,Label,NORP
+Stalin,Label,PERSON
+1929,Label,DATE
+the Great Depression,Label,EVENT
+first,Label,ORDINAL
+the Soviet Union's,Label,GPE
+the 1930s,Label,DATE
+World War I,Label,EVENT
+the 1920s,Label,DATE
+29,Label,CARDINAL
+the end of the decade,Label,DATE
+millions,Label,CARDINAL
+Democratic,Label,NORP
+two,Label,CARDINAL
+the rest of the century,Label,DATE
+first,Label,ORDINAL
+Italy,Label,GPE
+Benito Mussolini,Label,ORG
+1922.[23,Label,CARDINAL
+Hitler,Label,PERSON
+Germany,Label,GPE
+1933,Label,DATE
+Nazism,Label,NORP
+Germany,Label,GPE
+German,Label,NORP
+The Nazi Party,Label,ORG
+Germany,Label,GPE
+German,Label,NORP
+German,Label,NORP
+Central and Eastern Europe,Label,LOC
+Slavic,Label,NORP
+German,Label,NORP
+Germans,Label,NORP
+Herrenvolk,Label,FAC
+Jews,Label,NORP
+Untermensch,Label,ORG
+Western Europe,Label,LOC
+the United States,Label,GPE
+Hitler,Label,PERSON
+Germany,Label,GPE
+the Great Depression,Label,EVENT
+Jews,Label,NORP
+Hitler,Label,PERSON
+Austria,Label,GPE
+Austria,Label,GPE
+Germany,Label,GPE
+1938.[29,Label,CARDINAL
+Sudetenland,Label,ORG
+German,Label,NORP
+Czechoslovakia,Label,GPE
+Munich,Label,GPE
+British,Label,NORP
+Hitler,Label,PERSON
+Czech,Label,NORP
+Hitler,Label,PERSON
+Czech,Label,NORP
+Eastern Europe,Label,LOC
+Spain,Label,GPE
+Francisco Franco,Label,PERSON
+the Spanish,Label,EVENT
+Totalitarian,Label,NORP
+the Holocaust Adolf Hitler,Label,ORG
+European,Label,NORP
+Jews,Label,NORP
+the Great Purge Stalin,Label,EVENT
+the Soviet Union,Label,GPE
+the 1930s,Label,DATE
+World War II,Label,EVENT
+Europe,Label,LOC
+Czechoslovakia,Label,GPE
+Britain,Label,GPE
+France,Label,GPE
+Poland,Label,GPE
+Hitler,Label,PERSON
+World War II,Label,EVENT
+1-Sep-39,Label,DATE
+Hitler,Label,PERSON
+Blitzkrieg,Label,PERSON
+Poland,Label,GPE
+Britain,Label,GPE
+France,Label,GPE
+Hitler,Label,PERSON
+Germany,Label,GPE
+Poland,Label,GPE
+Sixteen days later,Label,DATE
+Poland,Label,GPE
+East,Label,LOC
+Soviet Union,Label,GPE
+Nazi,Label,NORP
+only a few weeks,Label,DATE
+Polish,Label,NORP
+London,Label,GPE
+Polish,Label,NORP
+World War II,Label,EVENT
+Germans,Label,NORP
+German,Label,NORP
+Wehrmacht,Label,ORG
+German,Label,NORP
+Encirclement,Label,PERSON
+the Second World War,Label,EVENT
+Hitler,Label,PERSON
+Poland,Label,GPE
+the Soviet Union,Label,GPE
+Joseph Stalin,Label,PERSON
+USSR,Label,GPE
+Germany,Label,GPE
+Stalin,Label,NORP
+Baltic,Label,NORP
+Estonia,Label,GPE
+Latvia,Label,GPE
+Lithuania,Label,GPE
+Eastern Poland,Label,LOC
+Soviet,Label,NORP
+Stalin,Label,PERSON
+Finland,Label,GPE
+Soviet,Label,NORP
+the Red Army,Label,ORG
+Finnish,Label,NORP
+the Winter War,Label,EVENT
+Finns,Label,NORP
+Germany,Label,GPE
+the Soviet Union,Label,GPE
+1941.[39,Label,CARDINAL
+Poland,Label,GPE
+the Phony War,Label,EVENT
+the winter of 1939â€“1940,Label,DATE
+10-May-40,Label,DATE
+Germans,Label,NORP
+the Low Countries (Belgium,Label,ORG
+Netherlands,Label,GPE
+Luxembourg,Label,GPE
+the Maginot Line,Label,FAC
+Eben Emael,Label,PERSON
+Belgian,Label,NORP
+600,Label,CARDINAL
+Belgians,Label,NORP
+only 88,Label,CARDINAL
+German,Label,NORP
+King Leopold III,Label,PERSON
+Belgium,Label,GPE
+Germans,Label,NORP
+28-May,Label,DATE
+Allied,Label,ORG
+German,Label,NORP
+Hitler,Label,PERSON
+Denmark,Label,GPE
+Norway,Label,GPE
+9-Apr-40,Label,DATE
+Norway,Label,GPE
+Swedish,Label,NORP
+Nazi,Label,NORP
+Norway,Label,GPE
+a few crucial weeks,Label,DATE
+Denmark,Label,GPE
+only six,Label,CARDINAL
+Sweden,Label,GPE
+Scandinavian,Label,NORP
+Germany,Label,GPE
+France,Label,GPE
+only four weeks,Label,DATE
+Paris,Label,GPE
+14-Jun,Label,DATE
+Three days later,Label,DATE
+Marshal Philippe,Label,PERSON
+France,Label,GPE
+one,Label,CARDINAL
+Hitler,Label,PERSON
+first,Label,ORDINAL
+Dunkirk,Label,ORG
+a third,Label,CARDINAL
+million,Label,CARDINAL
+British,Label,NORP
+French,Label,NORP
+British,Label,NORP
+Hitler,Label,PERSON
+Dunkirk,Label,ORG
+Air,Label,ORG
+Hermann GÃ¶ring,Label,PERSON
+Luftwaffe,Label,ORG
+German Air Force,Label,ORG
+1944,Label,DATE
+Hitler,Label,PERSON
+France,Label,GPE
+about three-quarters,Label,CARDINAL
+Atlantic,Label,LOC
+the escaped,Label,ORG
+French Army,Label,ORG
+Charles de Gaulle,Label,PERSON
+French,Label,NORP
+Hitler,Label,PERSON
+Italy,Label,GPE
+Benito Mussolini,Label,PERSON
+10-Jun,Label,DATE
+a few hundred yards,Label,QUANTITY
+French,Label,NORP
+Italians,Label,NORP
+Nazis,Label,NORP
+Hitler,Label,PERSON
+Great Britain,Label,GPE
+Operation Sea Lion,Label,ORG
+Luftwaffe,Label,ORG
+British,Label,NORP
+Britain,Label,GPE
+British,Label,NORP
+first,Label,ORDINAL
+Germany,Label,GPE
+"2,698",Label,CARDINAL
+German,Label,NORP
+the summer of 1940,Label,DATE
+915,Label,CARDINAL
+Royal Air Force,Label,ORG
+RAF,Label,ORG
+Germans,Label,NORP
+British,Label,NORP
+German,Label,NORP
+British,Label,NORP
+Berlin.[55,Label,GPE
+Hitler,Label,PERSON
+British,Label,NORP
+RAF,Label,ORG
+Germans,Label,NORP
+Sea Lion.[56,Label,FAC
+Britain,Label,GPE
+first,Label,ORDINAL
+Hitler,Label,PERSON
+Secondly,Label,ORDINAL
+Hitler,Label,PERSON
+Britain,Label,GPE
+the Soviet Union,Label,GPE
+Stalin,Label,PERSON
+Hitler,Label,PERSON
+early spring of 1941,Label,DATE
+Russian,Label,LANGUAGE
+winter,Label,DATE
+Yugoslavia,Label,GPE
+Mussolini,Label,PERSON
+Greece,Label,GPE
+Albania,Label,GPE
+Hitler,Label,PERSON
+Yugoslavia,Label,GPE
+Greece,Label,GPE
+several crucial weeks,Label,DATE
+USSR,Label,GPE
+22-Jun-41,Label,DATE
+Hitler,Label,PERSON
+Stalin,Label,PERSON
+Over three million,Label,CARDINAL
+Soviet,Label,NORP
+Stalin,Label,PERSON
+Soviet,Label,NORP
+Stalin,Label,PERSON
+the Germans.[61] Throughout 1941,Label,EVENT
+German,Label,NORP
+3,Label,CARDINAL
+Army Group,Label,ORG
+Army Group,Label,ORG
+Army Group C,Label,ORG
+Ukraine,Label,GPE
+Belarus,Label,GPE
+Leningrad,Label,GPE
+Saint Petersburg,Label,GPE
+15 miles,Label,QUANTITY
+Moscow,Label,GPE
+Soviet,Label,NORP
+German,Label,NORP
+Wehrmacht,Label,ORG
+Moscow,Label,GPE
+Stalin,Label,PERSON
+Georgy Zhukov,Label,PERSON
+Germans,Label,NORP
+Mussolini,Label,PERSON
+North Africa,Label,GPE
+Italian,Label,NORP
+Libya,Label,GPE
+British,Label,NORP
+Egypt,Label,GPE
+British,Label,NORP
+Italians,Label,NORP
+Libya,Label,GPE
+Hitler,Label,PERSON
+a few thousand,Label,CARDINAL
+Luftwaffe,Label,ORG
+first,Label,ORDINAL
+Erwin,Label,PERSON
+British,Label,NORP
+Tobruk,Label,GPE
+Egypt,Label,GPE
+Hitler,Label,PERSON
+the Soviet Union,Label,GPE
+Rommel,Label,PERSON
+Rommel,Label,ORG
+the Middle East,Label,LOC
+Iraq,Label,GPE
+Persia,Label,GPE
+present-day,Label,DATE
+the winter,Label,DATE
+Hitler,Label,PERSON
+the spring of 1942,Label,DATE
+Caucacus,Label,ORG
+Stalingrad,Label,GPE
+6th Army,Label,ORG
+German,Label,NORP
+Stalingrad,Label,GPE
+Hitler,Label,PERSON
+6th Army,Label,ORG
+German,Label,NORP
+Hermann GÃ¶ring,Label,PERSON
+Hitler,Label,PERSON
+Luftwaffe,Label,ORG
+the 6th Army,Label,ORG
+6th Army,Label,ORG
+Germans,Label,NORP
+Stalingrad,Label,PERSON
+Japanese,Label,NORP
+the United States,Label,GPE
+Pearl Harbor,Label,FAC
+Hawaii,Label,GPE
+7-Dec-41,Label,DATE
+Americans,Label,NORP
+German,Label,NORP
+US,Label,GPE
+Japan,Label,GPE
+the Tripartite Pact,Label,LAW
+Germany,Label,GPE
+Hitler,Label,PERSON
+Japan,Label,GPE
+US,Label,GPE
+Russia,Label,GPE
+Germany,Label,GPE
+Italy,Label,GPE
+the United States,Label,GPE
+a few days,Label,DATE
+1942,Label,DATE
+1943,Label,DATE
+Soviets,Label,NORP
+Germans,Label,NORP
+Rommel,Label,ORG
+North Africa,Label,GPE
+Montgomery,Label,ORG
+El Alamein,Label,ORG
+first,Label,ORDINAL
+Germany,Label,GPE
+Churchill,Label,PERSON
+Wehrmacht,Label,ORG
+Hitler,Label,PERSON
+the beginning of 1944,Label,DATE
+Hitler,Label,PERSON
+the Soviet Union,Label,GPE
+1942 to 1944,Label,DATE
+the United States,Label,GPE
+Britain,Label,GPE
+European,Label,NORP
+Stalin,Label,GPE
+Germans,Label,NORP
+Africa,Label,LOC
+Morocco,Label,GPE
+Algeria,Label,GPE
+8,Label,CARDINAL
+10-Jul-43,Label,DATE
+Sicily,Label,GPE
+Italy,Label,GPE
+Axis,Label,ORG
+Winston Churchill,Label,PERSON
+9-Sep,Label,DATE
+Italy,Label,GPE
+the winter of 1943,Label,DATE
+half,Label,CARDINAL
+Italy,Label,GPE
+Allied,Label,ORG
+Italians,Label,NORP
+Mussolini,Label,PERSON
+July,Label,DATE
+Italians,Label,NORP
+8-Sep,Label,DATE
+Italians,Label,NORP
+Italy,Label,GPE
+Allied,Label,ORG
+German,Label,NORP
+Mussolini,Label,PERSON
+Mussolini,Label,PERSON
+German,Label,NORP
+Italian Social Republic,Label,GPE
+German,Label,NORP
+Germans,Label,NORP
+4-Jun-44,Label,DATE
+Rome,Label,GPE
+The Battle of the Atlantic,Label,WORK_OF_ART
+1942,Label,DATE
+1944,Label,DATE
+Germans,Label,NORP
+Britain,Label,GPE
+America,Label,GPE
+U-boats,Label,ORG
+German,Label,NORP
+Dec-43,Label,DATE
+Germans,Label,NORP
+6-Jun-44,Label,DATE
+Fortress Europe,Label,WORK_OF_ART
+Stalin,Label,PERSON
+Operation Overlord,Label,ORG
+the early morning hours,Label,TIME
+6-Jun,Label,DATE
+The day,Label,DATE
+D-day,Label,DATE
+Rommel,Label,ORG
+France,Label,GPE
+Allied,Label,ORG
+Germans,Label,NORP
+Calais,Label,PERSON
+Normandy,Label,PERSON
+Calais,Label,PERSON
+Germany,Label,GPE
+20-Jul-44,Label,DATE
+German,Label,NORP
+Hitler,Label,PERSON
+second,Label,ORDINAL
+Hitler,Label,PERSON
+luck.[79,Label,PERSON
+Paris,Label,GPE
+SS,Label,ORG
+Gestapo,Label,PERSON
+German,Label,NORP
+Joseph Goebbels,Label,PERSON
+Nazis,Label,NORP
+7000,Label,CARDINAL
+France,Label,GPE
+Normandy,Label,PERSON
+Paris,Label,GPE
+25 August.[81,Label,DATE
+Soviets,Label,NORP
+Polish,Label,NORP
+Soviet,Label,NORP
+Hitler,Label,PERSON
+V-1,Label,PRODUCT
+V-2,Label,ORG
+first,Label,ORDINAL
+V-1,Label,ORG
+V-2,Label,ORG
+Germans,Label,NORP
+Germans,Label,NORP
+Atlantic,Label,LOC
+Hitler,Label,PERSON
+September,Label,DATE
+The Netherlands,Label,GPE
+the winter of 1944,Label,DATE
+Hitler,Label,PERSON
+one,Label,CARDINAL
+West,Label,LOC
+the Battle of the Bulge,Label,WORK_OF_ART
+Allied,Label,ORG
+Germans,Label,NORP
+second,Label,ORDINAL
+the American Army.[83],Label,ORG
+early February 1945,Label,DATE
+three,Label,CARDINAL
+Allied,Label,ORG
+Franklin Roosevelt,Label,PERSON
+Winston Churchill,Label,PERSON
+Joseph Stalin,Label,PERSON
+Yalta,Label,GPE
+Crimea,Label,ORG
+the Soviet Union,Label,GPE
+Europe,Label,LOC
+Stalin,Label,PERSON
+Eastern Europe,Label,LOC
+Britain,Label,GPE
+France,Label,GPE
+the U.S. Post-war Germany,Label,ORG
+four,Label,CARDINAL
+Berlin,Label,GPE
+the Cold War,Label,EVENT
+the second half,Label,DATE
+the beginning of 1945,Label,DATE
+Hitler,Label,PERSON
+Soviets,Label,NORP
+Poland,Label,GPE
+Germany,Label,GPE
+Eastern Europe,Label,LOC
+Berlin,Label,GPE
+Germans,Label,NORP
+West,Label,LOC
+Germany,Label,GPE
+the Supreme Allied Commander,Label,ORG
+American,Label,NORP
+Dwight D. Eisenhower,Label,PERSON
+Berlin,Label,GPE
+Germany,Label,GPE
+Joseph Goebbels.[86,Label,PERSON
+25-Apr,Label,DATE
+Soviets,Label,NORP
+Berlin,Label,GPE
+Hitler,Label,PERSON
+30-Apr,Label,DATE
+Eva Braun.[87,Label,PERSON
+Germans,Label,NORP
+another 7 days,Label,DATE
+Doenitz,Label,PERSON
+Germans,Label,NORP
+7-May-45,Label,DATE
+Europe,Label,LOC
+the Cold War,Label,EVENT
+first,Label,ORDINAL
+the Mukden Incident of,Label,ORG
+Sep-31,Label,DATE
+Japanese,Label,NORP
+the South Manchuria Railway,Label,LOC
+Chinese,Label,NORP
+Japan,Label,GPE
+China,Label,GPE
+the next day,Label,DATE
+Manchuria,Label,GPE
+Japanese,Label,NORP
+the League of Nations,Label,ORG
+1932,Label,DATE
+Lytton Report,Label,ORG
+the Mukden Incident,Label,ORG
+Japanese,Label,NORP
+Japan,Label,GPE
+the League of Nations,Label,ORG
+Mar-33,Label,DATE
+1934,Label,DATE
+Manchukuo,Label,PERSON
+Chinese,Label,NORP
+Pu Yi,Label,PERSON
+Japan,Label,GPE
+China,Label,GPE
+Manchuria,Label,GPE
+7-Jul-37,Label,DATE
+Chinese,Label,NORP
+Japanese,Label,NORP
+the Marco Polo Bridge,Label,FAC
+Second,Label,ORDINAL
+one,Label,CARDINAL
+Japan,Label,GPE
+Shanghai,Label,GPE
+Chinese,Label,NORP
+Nanjing,Label,GPE
+1937,Label,DATE
+Chinese,Label,NORP
+Chongqing,Label,GPE
+Chinese,Label,NORP
+Changsha,Label,GPE
+Guangxi,Label,GPE
+1939,Label,DATE
+Japan,Label,GPE
+27-Sep-40,Label,DATE
+Japan,Label,GPE
+the Tripartite Pact,Label,LAW
+Germany,Label,GPE
+7-Dec-41,Label,DATE
+Japan,Label,GPE
+American,Label,NORP
+Pearl Harbor,Label,FAC
+the U.S. Pacific Fleet,Label,ORG
+next day,Label,DATE
+Roosevelt,Label,PERSON
+Infamy Speech,Label,ORG
+the United States,Label,GPE
+Japan,Label,GPE
+World War 2.[97][98,Label,EVENT
+Japan,Label,GPE
+Thailand,Label,GPE
+British,Label,NORP
+Malaya,Label,GPE
+Singapore,Label,GPE
+Hong Kong,Label,GPE
+American,Label,NORP
+Guam,Label,GPE
+Wake Island,Label,LOC
+Japanese,Label,NORP
+Allied,Label,ORG
+two years,Label,DATE
+Europe,Label,LOC
+North Africa,Label,GPE
+Japan,Label,GPE
+British Burma,Label,GPE
+New Guinea,Label,GPE
+the Dutch East Indies,Label,ORG
+the Solomon Islands,Label,GPE
+Bali,Label,GPE
+"March 1942, days",Label,DATE
+Philippines,Label,GPE
+Douglas MacArthur,Label,PERSON
+United States Army Forces,Label,ORG
+the Far East,Label,LOC
+19-Feb-42,Label,DATE
+Japan,Label,GPE
+Australian,Label,NORP
+Darwin,Label,PERSON
+first,Label,ORDINAL
+Australian,Label,NORP
+early May,Label,DATE
+the Battle of the Coral Sea,Label,WORK_OF_ART
+first,Label,ORDINAL
+Japanese,Label,NORP
+one month later,Label,DATE
+the Battle of Midway,Label,ORG
+the US Navy,Label,ORG
+Japanese,Label,NORP
+The Battle of Midway,Label,WORK_OF_ART
+the Pacific Campaign,Label,ORG
+Japanese,Label,NORP
+Japanese,Label,NORP
+the United States.[105],Label,ORG
+this Battle of Midway,Label,EVENT
+Solomon Islands,Label,GPE
+Japan,Label,GPE
+Aug-42,Label,DATE
+Allied,Label,ORG
+New Guinea,Label,GPE
+Guadalcanal,Label,GPE
+Milne Bay,Label,PERSON
+the next two years,Label,DATE
+Allies,Label,ORG
+one,Label,CARDINAL
+Japan,Label,GPE
+Jul-44,Label,DATE
+US,Label,GPE
+Guam,Label,GPE
+Tinian,Label,NORP
+Japan,Label,GPE
+Boeing,Label,ORG
+B-29,Label,PRODUCT
+South-East Asia,Label,LOC
+Japanese,Label,NORP
+India,Label,GPE
+Pacific,Label,LOC
+the Battle of the Philippine Sea,Label,WORK_OF_ART
+Japan,Label,GPE
+later October,Label,DATE
+American,Label,NORP
+Australian,Label,NORP
+the Imperial Japanese Navy,Label,ORG
+the Battle of Leyte Gulf,Label,WORK_OF_ART
+World War II,Label,EVENT
+Allied,Label,ORG
+Japanese,Label,NORP
+Leyte Gulf,Label,FAC
+first,Label,ORDINAL
+Japanese,Label,NORP
+early 1945,Label,DATE
+Americans,Label,NORP
+Japanese,Label,NORP
+Iwo Jima,Label,PERSON
+Tokyo,Label,GPE
+the Mariana Islands,Label,LOC
+Japan,Label,GPE
+Japanese,Label,NORP
+American,Label,NORP
+Japanese,Label,NORP
+more than 3 to 1,Label,CARDINAL
+USA,Label,GPE
+the 36 days,Label,DATE
+"over 6,800",Label,CARDINAL
+Marines,Label,NORP
+Japan,Label,GPE
+the Japanese Empire,Label,GPE
+Burma,Label,GPE
+Borneo,Label,PERSON
+China,Label,GPE
+Japanese,Label,NORP
+1-Apr-45,Label,DATE
+US,Label,GPE
+the Pacific Theater,Label,ORG
+Kadena Air Base,Label,ORG
+Okinawa,Label,GPE
+Operation Downfall,Label,ORG
+Japanese,Label,NORP
+only 340 miles,Label,QUANTITY
+Pacific,Label,LOC
+"approximately 160,000",Label,CARDINAL
+"at least 75,000",Label,CARDINAL
+Allied,Label,ORG
+"84,166â€“117,000",Label,CARDINAL
+Japanese,Label,NORP
+Around half,Label,CARDINAL
+"300,000",Label,CARDINAL
+Iwo Jima,Label,PERSON
+Okinawa,Label,PERSON
+American,Label,NORP
+Truman,Label,PERSON
+Operation Downfall,Label,ORG
+Japan,Label,GPE
+over a million,Label,CARDINAL
+American,Label,NORP
+Tokyo,Label,GPE
+dozens,Label,CARDINAL
+Japanese,Label,NORP
+the Potsdam Declaration,Label,LAW
+26-Jul,Label,DATE
+Allies,Label,ORG
+Japan,Label,GPE
+first,Label,ORDINAL
+6-Aug,Label,DATE
+the 393d Bombardment Squadron B-29 Enola Gay,Label,ORG
+Tinian,Label,NORP
+Hiroshima,Label,GPE
+Three days later,Label,DATE
+second,Label,ORDINAL
+Nagasaki,Label,GPE
+two,Label,CARDINAL
+"129,000â€“226,000",Label,CARDINAL
+9-Aug,Label,DATE
+the Soviet Union,Label,GPE
+Manchukuo,Label,PERSON
+10-Aug,Label,DATE
+Japanese,Label,NORP
+Potsdam,Label,GPE
+15-Aug,Label,DATE
+Hirohito,Label,PERSON
+Japanese,Label,NORP
+2-Sep-45,Label,DATE
+USS Missouri,Label,PRODUCT
+Tokyo,Label,GPE
+Douglas MacArthur,Label,PERSON
+Supreme,Label,ORG
+Allied,Label,ORG
+millions,Label,CARDINAL
+Jews,Label,NORP
+World War II,Label,EVENT
+Hitler,Label,PERSON
+Nazi,Label,NORP
+Europe,Label,LOC
+Jews,Label,NORP
+Kristallnacht,Label,PERSON
+Crystal Night,Label,WORK_OF_ART
+Nazis,Label,NORP
+Germans,Label,NORP
+Hitler,Label,PERSON
+Poland,Label,GPE
+Jews,Label,NORP
+Jews,Label,NORP
+Jews,Label,NORP
+Nazi,Label,NORP
+Jews,Label,NORP
+tens of thousands,Label,CARDINAL
+the Soviet Union,Label,GPE
+SS,Label,ORG
+Jews,Label,NORP
+an estimated one million,Label,CARDINAL
+Jews,Label,NORP
+Nazi,Label,NORP
+1942,Label,DATE
+Wannsee,Label,GPE
+Berlin,Label,GPE
+Nazis,Label,NORP
+Poland,Label,GPE
+Jews,Label,NORP
+the Soviet Union,Label,GPE
+Jews,Label,NORP
+Nazi,Label,NORP
+Nazis,Label,ORG
+the Nuremberg Code,Label,LAW
+Nazis,Label,NORP
+Auschwitz,Label,ORG
+"Arbeit Macht Frei""â€”""Work Sets You Free"".[135]",Label,WORK_OF_ART
+six million,Label,CARDINAL
+Jews,Label,NORP
+5 million,Label,CARDINAL
+Jehovah,Label,PERSON
+Soviet,Label,NORP
+Allied,Label,ORG
+Germans,Label,NORP
+Germans,Label,NORP
+Jews,Label,NORP
+German,Label,NORP
+Allied,Label,ORG
+the 1930s,Label,DATE
+World War II,Label,EVENT
+Nazi Germany,Label,GPE
+the United States,Label,GPE
+the United Kingdom,Label,GPE
+the Manhattan Project,Label,ORG
+Los Alamos,Label,GPE
+New Mexico,Label,GPE
+Robert Oppenheimer,Label,PERSON
+first,Label,ORDINAL
+first,Label,ORDINAL
+Trinity,Label,ORG
+July 1945.[146,Label,DATE
+Germany,Label,GPE
+May-45,Label,DATE
+German,Label,NORP
+Allied,Label,ORG
+two,Label,CARDINAL
+"""Little Boy""",Label,WORK_OF_ART
+Japanese,Label,NORP
+Hiroshima,Label,GPE
+Nagasaki,Label,GPE
+6 and 9 August 1945,Label,DATE
+Soviet,Label,NORP
+Japanese,Label,NORP
+Japanese,Label,NORP
+two,Label,CARDINAL
+only two,Label,CARDINAL
+war.[149],Label,FAC
+first,Label,ORDINAL
+the United States,Label,GPE
+the Soviet Union,Label,GPE
+first,Label,ORDINAL
+August,Label,DATE
+two,Label,CARDINAL
+two,Label,CARDINAL
+The United States,Label,GPE
+first,Label,ORDINAL
+1950,Label,DATE
+first,Label,ORDINAL
+1952,Label,DATE
+over 400,Label,CARDINAL
+Japan,Label,GPE
+The Soviet Union,Label,GPE
+1953,Label,DATE
+1955.[152,Label,CARDINAL
+Mutually Assured Destruction,Label,ORG
+the Cold War.[153],Label,EVENT
+the 1940s,Label,DATE
+nine,Label,CARDINAL
+today,Label,DATE
+the United States,Label,GPE
+the Soviet Union,Label,GPE
+Russia,Label,GPE
+the United Kingdom,Label,GPE
+France,Label,GPE
+China,Label,GPE
+India,Label,GPE
+Pakistan,Label,GPE
+Israel,Label,GPE
+North Korea.[154],Label,GPE
+South Africa,Label,GPE
+six,Label,CARDINAL
+the 1980s,Label,DATE
+Israel,Label,GPE
+the Nuclear Non-proliferation Treaty,Label,ORG
+1968,Label,DATE
+Libya,Label,GPE
+Iran,Label,GPE
+World War II,Label,EVENT
+The United States,Label,GPE
+Pearl Harbor,Label,FAC
+U.S.,Label,GPE
+The United States,Label,GPE
+the Soviet Union,Label,GPE
+two,Label,CARDINAL
+Europe,Label,LOC
+the Marshall Plan,Label,LAW
+Germany,Label,GPE
+the United States,Label,GPE
+Great Britain,Label,GPE
+France,Label,GPE
+the Soviet Union,Label,GPE
+Berlin,Label,GPE
+Soviet,Label,NORP
+four,Label,CARDINAL
+Berlin,Label,GPE
+1990,Label,DATE
+Japan,Label,GPE
+U.S.,Label,GPE
+last seven years,Label,DATE
+1952.[163,Label,CARDINAL
+two,Label,CARDINAL
+second,Label,ORDINAL
+Japan,Label,GPE
+third,Label,ORDINAL
+West Germany,Label,GPE
+the world.[164] Following the,Label,EVENT
+Allies,Label,ORG
+German,Label,NORP
+the Nuremberg Trials,Label,ORG
+Hitler,Label,PERSON
+Hermann GÃ¶ring,Label,PERSON
+the Tokyo War Crime,Label,EVENT
+the League of Nations,Label,ORG
+World War II,Label,EVENT
+the United Nations,Label,ORG
+24-Oct-45,Label,DATE
+San,Label,GPE
+World War II,Label,EVENT
+involved.[168][169] Immediately,Label,WORK_OF_ART
+European,Label,NORP
+decades,Label,DATE
+Africa,Label,LOC
+Asia,Label,LOC
+India,Label,GPE
+Mahatma Gandhi,Label,PERSON
+Indian,Label,NORP
+Mohamed Ali Jinnah,Label,PERSON
+Muslims,Label,NORP
+1947,Label,DATE
+British,Label,NORP
+India,Label,GPE
+the Partition of the,Label,ORG
+India,Label,GPE
+Pakistan,Label,GPE
+the People's Republic of Bangladesh,Label,GPE
+Asia,Label,LOC
+The United States,Label,GPE
+Philippines,Label,GPE
+Pacific,Label,LOC
+1946.[172,Label,CARDINAL
+French,Label,NORP
+Indochina,Label,GPE
+French,Label,NORP
+the early 1950s,Label,DATE
+Laos,Label,GPE
+Cambodia,Label,GPE
+Africa,Label,LOC
+Jomo Kenyatta,Label,PERSON
+Kenya,Label,GPE
+Kwame Nkrumah,Label,PERSON
+Ghana,Label,GPE
+British Empire,Label,GPE
+almost half,Label,CARDINAL
+1968,Label,DATE
+British,Label,NORP
+Africa,Label,LOC
+Seychelles,Label,PERSON
+1976,Label,DATE
+Between 1956 and 1962,Label,DATE
+almost 20,Label,CARDINAL
+African,Label,NORP
+AmÃ­lcar Cabral,Label,ORG
+Portuguese,Label,NORP
+Guinea-Bissau,Label,ORG
+the mid-1970s,Label,DATE
+African decolonization.[176],Label,ORG
+1946,Label,DATE
+35,Label,CARDINAL
+the United Nations,Label,ORG
+1970,Label,DATE
+127.[177,Label,CARDINAL
+Africa,Label,LOC
+Asia,Label,LOC
+European,Label,NORP
+the Nigerian Civil War,Label,ORG
+the Second Congo War,Label,EVENT
+the Second Sudanese Civil War,Label,ORG
+the Bangladesh Liberation War,Label,ORG
+20th,Label,ORDINAL
+the Yalta Conference,Label,EVENT
+Western,Label,NORP
+Soviet Union,Label,GPE
+Europe,Label,LOC
+Mar-46,Label,DATE
+Winston Churchill,Label,PERSON
+Westminster College,Label,ORG
+US,Label,GPE
+first,Label,ORDINAL
+Soviet,Label,NORP
+Western,Label,NORP
+Stettin,Label,NORP
+Baltic,Label,LOC
+Adriatic,Label,NORP
+Central and Eastern Europe,Label,LOC
+Warsaw,Label,GPE
+Berlin,Label,GPE
+Prague,Label,GPE
+Vienna,Label,GPE
+Budapest,Label,GPE
+Belgrade,Label,GPE
+Bucharest,Label,LOC
+Sofia,Label,GPE
+Soviet,Label,NORP
+one,Label,CARDINAL
+Soviet,Label,NORP
+Moscow,Label,GPE
+the Soviet Union,Label,GPE
+Soviet,Label,NORP
+Socialist,Label,NORP
+Republics,Label,PERSON
+Eastern Poland,Label,LOC
+"the Ukrainian SSR),[184] Latvia",Label,ORG
+the Latvian SSR,Label,FAC
+Estonia,Label,GPE
+Estonian,Label,NORP
+Lithuania,Label,GPE
+Finland,Label,GPE
+Karelo,Label,PERSON
+Romania,Label,GPE
+Moldavian,Label,NORP
+Soviet Union,Label,GPE
+between 1945 and 1949,Label,DATE
+Yugoslavia,Label,GPE
+Albania,Label,GPE
+Bulgaria,Label,GPE
+Poland,Label,GPE
+Romania,Label,GPE
+Czechoslovakia,Label,GPE
+Hungary,Label,GPE
+East Germany,Label,GPE
+People's Republics.[188] While,Label,ORG
+Soviet,Label,NORP
+the next half century,Label,DATE
+Soviet,Label,NORP
+Europe,Label,LOC
+communist,Label,NORP
+Mongolia,Label,GPE
+China,Label,GPE
+North Korea,Label,GPE
+Cuba,Label,GPE
+Soviet,Label,NORP
+Western,Label,NORP
+Churchill,Label,PERSON
+USSR,Label,GPE
+World War II,Label,EVENT
+two,Label,CARDINAL
+the North Atlantic Treaty Organization,Label,ORG
+NATO,Label,ORG
+1949[191,Label,CARDINAL
+the Warsaw Pact,Label,LAW
+"1955,[192",Label,CARDINAL
+Two,Label,CARDINAL
+the 1950s,Label,DATE
+communist,Label,NORP
+first,Label,ORDINAL
+the Korean War,Label,EVENT
+People's Republic of China,Label,ORG
+North Korea,Label,GPE
+United States,Label,GPE
+South Korea,Label,GPE
+The Korean Peninsula,Label,LOC
+Japanese,Label,NORP
+between 1910 and 1945,Label,DATE
+Soviet,Label,NORP
+American,Label,NORP
+the 38th,Label,DATE
+South,Label,LOC
+North Korea's,Label,GPE
+South Korea,Label,GPE
+25-Jun-50,Label,DATE
+United Nations,Label,ORG
+Douglas MacArthur,Label,PERSON
+the United States,Label,GPE
+Canada,Label,GPE
+Australia,Label,GPE
+Great Britain,Label,GPE
+Chinese,Label,NORP
+U.N.,Label,ORG
+Armistice,Label,GPE
+Jul-53,Label,DATE
+two,Label,CARDINAL
+Koreas,Label,GPE
+the century.[196] The,Label,PRODUCT
+second,Label,ORDINAL
+the Vietnam War,Label,EVENT
+third,Label,ORDINAL
+the 20th century,Label,DATE
+World War I and World War II,Label,EVENT
+French,Label,NORP
+21-Jul-54,Label,DATE
+Vietnam,Label,GPE
+two,Label,CARDINAL
+Korea,Label,GPE
+the 17th,Label,DATE
+North and South,Label,LOC
+The United States,Label,GPE
+South Vietnam[197,Label,GPE
+the Gulf of Tonkin Resolution,Label,FAC
+North Vietnamese,Label,NORP
+American,Label,NORP
+U.S.,Label,GPE
+Truman Doctrine,Label,PERSON
+Domino Theory,Label,PERSON
+Americans,Label,NORP
+the Tet Offensive,Label,FAC
+My Lai,Label,PERSON
+American,Label,NORP
+U.S.,Label,GPE
+Richard Nixon,Label,PERSON
+Nixon,Label,PERSON
+American,Label,NORP
+South Vietnamese,Label,NORP
+American,Label,NORP
+Nixon,Label,PERSON
+Cambodia,Label,GPE
+South Vietnamese,Label,NORP
+U.S.,Label,GPE
+North Vietnam,Label,LOC
+the Paris Peace Accords,Label,EVENT
+U.S.,Label,GPE
+U.S.,Label,GPE
+North,Label,LOC
+South,Label,LOC
+Saigon,Label,ORG
+30-Apr-75,Label,DATE
+Vietnam,Label,GPE
+Communist,Label,NORP
+a year later,Label,DATE
+one,Label,CARDINAL
+The Cuban Missile Crisis,Label,WORK_OF_ART
+the Cold War,Label,EVENT
+Cuba,Label,GPE
+Fidel Castro's,Label,PERSON
+Soviet,Label,NORP
+the United States,Label,GPE
+Cuba,Label,GPE
+Lockheed,Label,ORG
+Soviet,Label,NORP
+U.S.,Label,GPE
+John F. Kennedy,Label,PERSON
+the Soviet Union,Label,GPE
+a tense week,Label,DATE
+the Soviet Union,Label,GPE
+Cold War,Label,EVENT
+the Soviet Union,Label,GPE
+United States,Label,GPE
+1957,Label,DATE
+Soviet,Label,NORP
+two,Label,CARDINAL
+USSR,Label,GPE
+first,Label,ORDINAL
+Moon,Label,PERSON
+first,Label,ORDINAL
+U.S.,Label,GPE
+Mercury,Label,ORG
+Gemini,Label,GPE
+Apollo,Label,ORG
+Apollo,Label,ORG
+11,Label,CARDINAL
+Moon,Label,PERSON
+20 July 1969.[214,Label,DATE
+Five,Label,CARDINAL
+Apollo 13,Label,LAW
+U.S.,Label,GPE
+Soviet,Label,NORP
+the early 21st century.[216][217] In,Label,DATE
+the Venera 7 and Voyager 2.[218],Label,LAW
+later decades,Label,DATE
+the American Space Shuttle,Label,ORG
+first,Label,ORDINAL
+Mir,Label,FAC
+Skylab,Label,PERSON
+the 1990s,Label,DATE
+the International Space Station,Label,ORG
+the end of the century,Label,DATE
+the United States,Label,GPE
+Europe,Label,LOC
+Russia,Label,GPE
+Japan,Label,GPE
+the 1980s,Label,DATE
+the Soviet Union,Label,GPE
+Sino-Soviet,Label,NORP
+USSR,Label,GPE
+the People's Republic,Label,GPE
+U.S.,Label,GPE
+Mikhail Gorbachev,Label,PERSON
+Berlin,Label,GPE
+Soviet,Label,NORP
+"Lithuania,[227",Label,NORP
+Gorbachev,Label,PERSON
+Communist Party,Label,ORG
+Boris Yeltsin,Label,PERSON
+Russia,Label,GPE
+failed.[228,Label,ORG
+26-Dec-91,Label,DATE
+the Soviet Union,Label,GPE
+Cold War.[229,Label,EVENT
+first,Label,ORDINAL
+"World War II,[230",Label,EVENT
+at least 20,Label,CARDINAL
+transistors.[231] Computers,Label,WORK_OF_ART
+thousands,Label,CARDINAL
+the Apple II,Label,LAW
+IBM,Label,ORG
+IBM Personal Computer,Label,ORG
+IBM,Label,ORG
+third,Label,ORDINAL
+Compaq,Label,ORG
+BIOS,Label,ORG
+Microsoft,Label,ORG
+The 1980s,Label,DATE
+the Information Age,Label,PRODUCT
+The U.S. Government,Label,ORG
+Richard Stallman,Label,PERSON
+the Free Software Foundation,Label,ORG
+first,Label,ORDINAL
+Pong and Space Invaders.[245] Once,Label,ORG
+industry.[246,Label,ORG
+two,Label,CARDINAL
+the Bulletin Board,Label,ORG
+DARPA,Label,ORG
+TCP,Label,ORG
+Al Gore,Label,PERSON
+it.[250][251,Label,ORG
+the File Transfer Protocol,Label,ORG
+FTP,Label,ORG
+Bulletin Boards,Label,PERSON
+Compuserve and America Online,Label,ORG
+Tim Berners-Lee,Label,PERSON
+Vannevar Bush's,Label,PERSON
+the World Wide,Label,EVENT
+The Web,Label,WORK_OF_ART
+HTML,Label,ORG
+the century,Label,DATE
+Y2K,Label,PERSON
+World,Label,ORG
+the end of the century,Label,DATE
+daily,Label,DATE
+Europe,Label,LOC
+first,Label,ORDINAL
+Indian,Label,NORP
+sixth,Label,ORDINAL
+the end of the century,Label,DATE
+first,Label,ORDINAL
+centuries,Label,DATE
+China,Label,GPE
+a fifth,Label,CARDINAL
+West,Label,LOC
+East,Label,LOC
+the Cold War,Label,EVENT
+Africa,Label,LOC
+centuries,Label,DATE
+second,Label,ORDINAL
+first,Label,ORDINAL
+the 19th century,Label,DATE
+World War I.[257] Since,Label,EVENT
+US,Label,GPE
+anti-Western,Label,NORP
+anti-American,Label,NORP
+China,Label,GPE
+India,Label,GPE
+West,Label,LOC
+the late century,Label,DATE
+Oklahoma City,Label,GPE
+168,Label,CARDINAL
+Kim Jong-il,Label,PERSON
+North Korea,Label,GPE
+West Nile,Label,GPE
+Millions,Label,CARDINAL
+20th,Label,ORDINAL
+New Year's Eve,Label,EVENT
+1999,Label,DATE
+New Year's Day 2000,Label,EVENT
+the turn of the millennium,Label,DATE
+the 20th century ended,Label,DATE
+New Year's Eve 2000,Label,EVENT
+the 21st century,Label,DATE
+New Year's Day 2001,Label,EVENT

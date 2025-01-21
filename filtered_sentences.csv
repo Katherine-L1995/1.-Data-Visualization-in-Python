@@ -1,0 +1,5 @@
+sentence,character_entities
+"The United States was a major player in the Cold War, while Russia was on the opposing side. 
+",['Russia']
+"Germany played a significant role in both world wars, with France being a key participant in both conflicts. 
+","['Germany', 'France']"
